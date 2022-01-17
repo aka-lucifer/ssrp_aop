@@ -1,0 +1,23 @@
+{
+  "debug": false,
+  "locations": [
+    "Sandy Shores",
+    "Blaine County",
+    "Los Santos",
+    "State Wide"
+  ],
+  "whitelistedRoles": [
+    {"name": "Owners", "roleId": 702580819289702405},
+    {"name": "Admin", "roleId": 702580819289702401}
+  ],
+  "aopCyclers": [
+    {"name": "Sandy Shores", "playerMax": 10},
+    {"name": "Blaine County", "playerMax": 20},
+    {"name": "Los Santos", "playerMax": 30},
+    {"name": "State Wide", "playerMax": 48}
+  ],
+  "discordPerms": {
+    "token": "OTE3NTI5MzMxMDA4NDMwMDgy.Ya6Bxw.3gRcpspWNtliFD-Szdznnl7CrW4",
+    "guildId": "702580819281182770"
+  }
+}
